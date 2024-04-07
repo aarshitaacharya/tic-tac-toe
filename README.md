@@ -7,13 +7,6 @@ This is a simple Tic Tac Toe game implemented in React.
 - Reset the game at any time.
 - Displays winner or draw message at the end of the game.
 
-## Technologies Used
-
-- React
-- Hooks (useState, useContext, useReducer)
-- React Context API for state management
-- CSS for styling
-
 ## Getting Started
 
 To run this app on your local machine, follow these steps:
